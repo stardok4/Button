@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "button:fae_flight"
+  ],
+  "icon": "minecraft:elytra",
+  "order": 10,
+  "impact": 2,
+  "name": "Fairy",
+  "description": "A weak, small flying creature. Fairies are scared of the sky people, and start inside the walls."
+}
